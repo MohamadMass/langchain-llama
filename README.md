@@ -1,4 +1,4 @@
-#Private LLM with Langchain
+# Private LLM with Langchain
 chatbot built with Chainlit. 
 
 ### Chat with your documents 🚀
@@ -48,7 +48,7 @@ You must have Python 3.9 or later installed. Earlier versions of python may not 
    chmod +x download_model.sh
    ./download_model.sh
    ```
-   ####If you decide to use different model:
+   #### If you decide to use different model:
    you can edit the model inside the script `download_model.sh` to any model you like from the Huggingface repo.
    just make sure to change model_path and name in the code here accordingly:
      ```
