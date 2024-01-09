@@ -1,3 +1,3 @@
-# Welcome to SIA! 🚀🤖
+# Welcome to ASIA! 🚀🤖
 
-Hi, I am sia, your sorbet assistant! 
+Hi, I am asia, your tech assistant! 
